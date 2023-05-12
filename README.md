@@ -1,2 +1,2 @@
 # myfirstproject
-This first project folder
+This my first project folder.
